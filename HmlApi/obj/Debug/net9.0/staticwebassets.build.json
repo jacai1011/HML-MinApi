@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FZIg972AiOPSsFGh9oG7x8+a9P54rfIlCqEcEwaKHOY=",
+  "Source": "HmlApi",
+  "BasePath": "_content/HmlApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
