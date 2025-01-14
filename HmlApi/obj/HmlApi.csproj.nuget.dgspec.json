@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj": {}
+    "C:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj": {
+    "C:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj",
+        "projectUniqueName": "C:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj",
         "projectName": "HmlApi",
-        "projectPath": "c:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj",
+        "projectPath": "C:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\obj\\",
+        "outputPath": "C:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config"

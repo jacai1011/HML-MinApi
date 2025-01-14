@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HmlApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24259038578d09d8558688f9b2bd9f1f9d2af55c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HmlApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HmlApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
