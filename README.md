@@ -1,3 +1,3 @@
-Web App HML
+Minimal API (ASP.NET) with Routes for Task Management 
 
-Minimal API with Routes for Task Management
+Standalone API
