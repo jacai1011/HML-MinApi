@@ -47,3 +47,4 @@ c:\Users\James\cs\HMLw\HML2\HmlApi\obj\Debug\net9.0\refint\HmlApi.dll
 c:\Users\James\cs\HMLw\HML2\HmlApi\obj\Debug\net9.0\HmlApi.pdb
 c:\Users\James\cs\HMLw\HML2\HmlApi\obj\Debug\net9.0\HmlApi.genruntimeconfig.cache
 c:\Users\James\cs\HMLw\HML2\HmlApi\obj\Debug\net9.0\ref\HmlApi.dll
+c:\Users\James\cs\HMLw\HML2\HmlApi\obj\Debug\net9.0\HmlApi.sourcelink.json

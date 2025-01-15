@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jOKseHkkuq0=",
+  "dgSpecHash": "bKWNtjkczkY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj",
+  "projectFilePath": "c:\\Users\\James\\cs\\HMLw\\HML2\\HmlApi\\HmlApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\James\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\9.0.0\\microsoft.aspnetcore.diagnostics.entityframeworkcore.9.0.0.nupkg.sha512",
     "C:\\Users\\James\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",

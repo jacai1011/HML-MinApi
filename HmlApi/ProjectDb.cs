@@ -1,22 +1,21 @@
 using Microsoft.EntityFrameworkCore;
-public class HmlDb : DbContext
+public class ProjectDb : DbContext
 {
-    public HmlDb(DbContextOptions<HmlDb> options) : base(options) { }
-
-    public DbSet<Project> Projects { get; set; }
-    public DbSet<TaskList> TaskLists { get; set; }
-    public DbSet<Task> Tasks { get; set; }
+    public ProjectDb(DbContextOptions<ProjectDb> options) : base(options) { }
+    public required DbSet<Project> Projects { get; set; }
+    public required DbSet<TaskList> TaskLists { get; set; }
+    public required DbSet<Task> Tasks { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        // Configure Project -> TaskList relationship
+        // Project -> TaskList relationship
         modelBuilder.Entity<Project>()
             .HasMany(p => p.TaskLists)
             .WithOne(tl => tl.Project)
             .HasForeignKey(tl => tl.ProjectId)
             .OnDelete(DeleteBehavior.Cascade);
 
-        // Configure TaskList -> Task relationship
+        // TaskList -> Task relationship
         modelBuilder.Entity<TaskList>()
             .HasMany(tl => tl.Tasks)
             .WithOne(t => t.TaskList)

@@ -1,0 +1,14 @@
+{
+  "name": "exampleProj",
+  "dueDate": "2025-01-14",
+  "color": "blue"
+}
+{
+  "name": "exampleTaskList",
+  "order": 1,
+  "dueDate": "2025-01-14"
+}
+{
+    "title": "exampleTask",
+    "isComplete": false
+}
