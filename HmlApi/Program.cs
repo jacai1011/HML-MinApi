@@ -37,8 +37,6 @@ projectItems.MapGet("/getTaskListStatus/{taskListId}", GetTaskListStatus);
 projectItems.MapGet("/getProjectProgress/{projectId}", GetProjectProgress);
 projectItems.MapPut("/updateTaskStatus/{taskId}", UpdateTaskStatus);
 projectItems.MapPut("/reorderTaskList/{taskListId}/{reorder}", ReorderTaskList);
-// updateProject
-// updateTaskList
 
 app.Run();
 
